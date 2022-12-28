@@ -1,0 +1,7 @@
+/*
+
+Create a class Inventory which performs the following operations on the file STOCK.DAT
+a.Adds a new item to the file
+b.Modifies the details of an item
+c.Displays the contents of the file
+*/
